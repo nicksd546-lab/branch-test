@@ -8,4 +8,4 @@
 * ภาคเรียนปัจจุบัน : ภาคเรียนที่ 1/2569
 
 # __🗼รูปประจําตัว🗼__
-<img width="500" height="400" alt="5d43cb4d-42ce-4d53-b758-202ca7ba87dc" src="https://github.com/user-attachments/assets/2de8220f-c17f-465a-86e3-861ee6d48c1d" />
+<img width="1152" height="2048" alt="5d43cb4d-42ce-4d53-b758-202ca7ba87dc" src="https://github.com/user-attachments/assets/2de8220f-c17f-465a-86e3-861ee6d48c1d" />
